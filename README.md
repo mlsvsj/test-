@@ -1,4 +1,4 @@
 # test-
 ## Projekt Mbot2 Nga Scretch.
 
-![] (mbot2-parts.png)
+![](mbot2-parts.png)
